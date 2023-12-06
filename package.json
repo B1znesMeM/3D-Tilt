@@ -1,12 +1,12 @@
 {
-  "name": "gulp-start",
+  "name": "3D-Tilt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Vadym Prokopchuk",
+  "author": "Architeams",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.13",
